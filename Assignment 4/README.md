@@ -1,8 +1,8 @@
 Assignment 4: Dijkstra's Algorithm
 This folder contains the implementation, test output, and complete documentation for Assignment No. 4: Smart City Emergency Response System using Dijkstra's Algorithm.
 
-Problem Overview
-In a smart city infrastructure, ambulances must navigate road networks to reach the nearest hospital in the minimum possible travel time. Road networks are modeled as weighted graphs 
+
+Problem Overview an a smart city infrastructure, ambulances must navigate road networks to reach the nearest hospital in the minimum possible travel time. Road networks are modeled as weighted graphs 
 G
 =
 (
