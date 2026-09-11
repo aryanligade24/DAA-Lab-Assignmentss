@@ -1,5 +1,6 @@
 Quick Sort on Movie Dataset
 1. Aim
+
 To design and implement the Quick Sort algorithm in C++ to efficiently sort a real-world movie dataset according to movie ratings.
 
 The project reads movie records from a CSV file, applies Quick Sort using the movie rating as the sorting key, and displays the sorted movie records.
