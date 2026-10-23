@@ -1,9 +1,14 @@
-ary@nisl21-V50t-Gen-2-13IOB:~$ g++ graph.cpp -o graph
-ary@nisl21-V50t-Gen-2-13IOB:~$ ./graph
-Chromatic Number (Minimum Colors): 3
-Vertex Color Assignment:
-Vertex 0 -> Color 1
-Vertex 1 -> Color 2
-Vertex 2 -> Color 3
-Vertex 3 -> Color 1
-Vertex 4 -> Color 2
+3. Example output
+
+Input:
+Enter number of items: 4
+Enter weight and utility value of each item:
+2 10
+3 20
+4 30
+5 40
+Enter truck capacity: 8
+
+Output:
+Maximum utility value: 60
+Selected items: 2 4
